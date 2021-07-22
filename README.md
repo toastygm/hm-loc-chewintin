@@ -1,49 +1,40 @@
-# HârnWorld Location Module: Jedes Keep
+# HârnWorld Location Module: Chewintin Manor
 
-Jedes keep is a "Location Module" for the Foundry VTT system. It is designed to depict
-the Jedes keep in the kingdom of Kaldor, on the island of Hârn in the
-[HârnWorld](https://columbiagames.com/harnworld/) fantasy setting; however, this keep
-and village could be adapted to exist anywhere in any fantasy setting.
+Chewintin manor is a "Location Module" for the Foundry VTT system. It is designed to depict
+the Chewintin manor in Asolade hundred, kingdom of Kaldor, on the island of Hârn in the
+[HârnWorld](https://columbiagames.com/harnworld/) fantasy setting; however, this manor
+could be adapted to exist anywhere in any fantasy setting.
 
 Although designed for use with the [HârnMaster](https://foundryvtt.com/packages/hm3)
-system, this module is mostly system-agnostic, with the exception of Actors.
-Detailed descriptions of the actors has been provided in journal entries to facilitate
-conversion to other game systems.
+system, this module is mostly system-agnostic.  Detailed descriptions of the actors
+has been provided in journal entries to facilitate conversion to other game systems.
 
-Jedes is the largest settlement in Asolade Hundred. Consisting of only 49 households,
-plus the imposing keep, Jedes lies in the south western edge of Oselshire. This module
-details all of the households. This module includes interior plans of the keep, its
-outbuildings, and the inn; plus illustrations by Richard Luschek and Juha Makkonen.
-
-Jedes is remote from the politics of central Kaldor. With the majority of settlements run
-by a constable for the Earl of Balim, this is one of the Earl’s most important holdings.
-It is also a favourite of King Miginath.
-
-Jedes is not a rough frontier settlement, but the last remnant of the ancient Kingdom of
-Tarwyn. A land of fertile fields, fat cattle, and sturdy forest ponies, Jedes and the
-region is a renowned centre of horse breeding.
+Located in the far south-western corner of the Kingdom of Kaldor, Chewintin Manor is
+ruled by a bailiff for the Earl of Balim, the powerful Troda Dariune. Isolated and badly
+ruled, the current bailiff is busy making Chewintin safe from Kath raids across the Kald
+River.
 
 # Credits
 
-This module is made possible by the hard work of Neil Thompson and other HârnWorld fans,
+This module is made possible by the hard work of HârnWorld fans,
 and is provided at no cost. This work is an adaptation of the article
-[Jedes](https://www.lythia.com/harnworld/settlements/jedes/) available at the HârnWorld
+[Chewintin](https://www.lythia.com/harnworld/settlements/chewintin/) available at the HârnWorld
 fan site [Lythia.com](https://www.lythia.com/).
 
-**Writer:** Neil Thompson
+**Writer:** Kerry Mould
 
-**Contributors:**  Matthias Janssen, Daniel Bell, Tim Falkenberg (Horse Fair)
+**Contributors:** 
 
-**Original Maps:** Matthias Janssen, Neil Thompson
+**Original Maps:** 
 
-**Artists:** Richard Luschek, Juha Makkonen
+**Artists:** 
 
-**Editors:** Daniel Bell, Daniele Och
+**Editors:** 
 
 **Adapted to Foundry VTT:** Tom Rodriguez
 
-Thanks to Grant Dalgleish for permission to use the official illustration of Shernath Mirdarne
-from the ‘Kaldor Kingdom Module’ and to N. Robin Crossby.
-
 This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-material/)",
-a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby (Kelestia Productions).
+a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+
+Some assets used to create the maps in this module are from
+[Forgotton Adventures](https://www.forgotten-adventures.net/).
