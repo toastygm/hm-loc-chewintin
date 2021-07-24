@@ -23,13 +23,9 @@ fan site [Lythia.com](https://www.lythia.com/).
 
 **Writer:** Kerry Mould
 
-**Contributors:** 
+**Original Maps:** Patrick Nilsson
 
-**Original Maps:** 
-
-**Artists:** 
-
-**Editors:** 
+**Artists:** Richard Luschek
 
 **Adapted to Foundry VTT:** Tom Rodriguez
 
