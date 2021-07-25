@@ -2,7 +2,7 @@
   "name": "hm-loc-chewintin",
   "title": "Chewintin",
   "description": "Location details for the Chewintin manor in the Kingdom of Kaldor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-loc-chewintin/issues",
@@ -19,13 +19,13 @@
   ],
   "packs": [
     {
-      "label": "Jedes - Scenes",
+      "label": "Chewintin - Scenes",
       "entity": "Scene",
       "name": "scenes",
       "path": "packs/scenes.db"
     },
     {
-      "label": "Jedes - Journal",
+      "label": "Chewintin - Journal",
       "entity": "JournalEntry",
       "name": "journals",
       "path": "packs/journals.db"
@@ -40,7 +40,7 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-chewintin/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-chewintin/master/module.json",
-  "download": "https://github.com/toastygm/hm-loc-chewintin/archive/v0.0.1.zip",
+  "download": "https://github.com/toastygm/hm-loc-chewintin/archive/v1.0.0.zip",
   "flags": {
     "allowBugReporter": true
   }
