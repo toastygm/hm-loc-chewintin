@@ -14,6 +14,33 @@ ruled by a bailiff for the Earl of Balim, the powerful Troda Dariune. Isolated a
 ruled, the current bailiff is busy making Chewintin safe from Kath raids across the Kald
 River.
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## Chewintin Village
+
+Map of Chewintin Village, including the manor.
+
+<img src="assets/scenes/playermap.jpg" alt="Chewintin Village" width="600"/>
+
+## Chewintin Manor
+
+Cellar and ground levels.
+
+<img src="assets/scenes/chewintin-manor-lower.webp" alt="Chewintin Manor Lower" width="600"/>
+
+Second and third levels.
+
+<img src="assets/scenes/chewintin-manor-upper.webp" alt="Chewintin Manor Upper" width="600"/>
+
+Roof and tower.
+
+<img src="assets/scenes/chewintin-manor-roof-and-tower.webp" alt="Chewintin Manor Roof and Tower" width="600"/>
+
+
 # Credits
 
 This module is made possible by the hard work of HârnWorld fans,
