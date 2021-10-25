@@ -1,4 +1,7 @@
 # HârnWorld Location Module: Chewintin Manor
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm-loc-chewintin)](https://github.com/toastygm/hm-loc-chewintin/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm-loc-chewintin&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm-loc-chewintin)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm-loc-chewintin/releases/latest&color=green)](https://github.com/toastygm/hm-loc-chewintin/releases/latest)
 
 Chewintin manor is a "Location Module" for the Foundry VTT system. It is designed to depict
 the Chewintin manor in Asolade hundred, kingdom of Kaldor, on the island of Hârn in the
