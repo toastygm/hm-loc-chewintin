@@ -13,7 +13,7 @@
    * Set to the following to disable:
    *   const additionalJournals = [];
    */
-  const additionalJournals = ['Credits'];
+  const additionalJournals = [];
   /**
    * additionalMacros will automatically be imported.
    * Set to the following to disable:
