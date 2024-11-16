@@ -1,0 +1,211 @@
+{
+  "name": "Area",
+  "pages": [
+    {
+      "name": "[A] Watchtower",
+      "type": "text",
+      "text": {
+        "content": "<p>The manor house is described separately. The height of the tower makes it a landmark for leagues around and makes it hard to get lost.</p>",
+        "format": 1
+      },
+      "_id": "ZRMRNwM8F0T4lFNy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!eIhDUpwKR47mLyGW.ZRMRNwM8F0T4lFNy"
+    },
+    {
+      "name": "[B] Laranian Marker",
+      "type": "text",
+      "text": {
+        "content": "<p>Located in the center of the Village Square, the marker is in the shape of a sword driven into the stone.  It is inscribed:</p>\n<blockquote>\n<p>\"In the year of our Lady, 676 TR, Sir Scina Dariune, 13th Earl of Balim did order this marker raised to commemorate the completion of this tower to watch the borders of our most glorious Kaldor.  Long live King Torastra.\"</p>\n</blockquote>",
+        "format": 1
+      },
+      "_id": "ptOrg2sOfpzHqPpq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!eIhDUpwKR47mLyGW.ptOrg2sOfpzHqPpq"
+    },
+    {
+      "name": "[C] Mill",
+      "type": "text",
+      "text": {
+        "content": "<p>A large stone building, the mill was used as a place of refuge by the villagers before the tower was constructed.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "whOj03F9lWi6Xpua",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!eIhDUpwKR47mLyGW.whOj03F9lWi6Xpua"
+    },
+    {
+      "name": "[D] Grove",
+      "type": "text",
+      "text": {
+        "content": "<p>The Village Elder, Odins, holds regular services to honor the \"Stone and the Tree\" at this site.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "zCc9saIZlzfETKaK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!eIhDUpwKR47mLyGW.zCc9saIZlzfETKaK"
+    },
+    {
+      "name": "[E] Site of the Kath Raid",
+      "type": "text",
+      "text": {
+        "content": "<p>West of the tower, this is a good site to land boats since it has a wide sandy beach and bushes to hide in before reaching the village road.</p>",
+        "format": 1
+      },
+      "_id": "gPvowjU1nay9BUk8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!eIhDUpwKR47mLyGW.gPvowjU1nay9BUk8"
+    },
+    {
+      "name": "[F] Quarry",
+      "type": "text",
+      "text": {
+        "content": "<p>The stone for the tower was quarried here, and the villagers still use it for foundation and hearthstones.</p>",
+        "format": 1
+      },
+      "_id": "FkVygwvOH4NeFlVk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!eIhDUpwKR47mLyGW.FkVygwvOH4NeFlVk"
+    },
+    {
+      "name": "[G] Cabin",
+      "type": "text",
+      "text": {
+        "content": "<p>Used by the village fishermen to store nets, hooks, and repair tools.</p>",
+        "format": 1
+      },
+      "_id": "Wshuu4JGeWnRSvUr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!eIhDUpwKR47mLyGW.Wshuu4JGeWnRSvUr"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201696246,
+    "modifiedTime": 1659201696246,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "eIhDUpwKR47mLyGW",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!eIhDUpwKR47mLyGW"
+}

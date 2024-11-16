@@ -1,0 +1,535 @@
+{
+  "name": "Chewintin Village",
+  "pages": [
+    {
+      "name": "[1] Half-Villein (Mihil of Larrea)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 5</p>\n<p><strong>Acres:</strong> 19 serf</p>\n<p>Mihil is fisherman and holds nineteen acres. He is the most successful member and head of Clan Larrea, despite this, he still struggles to feed his family and has little left to spare. Most years he doesn’t have to work for one of the richer clans.</p>",
+        "format": 1
+      },
+      "_id": "kppoqOLQXUNkcUXo",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.kppoqOLQXUNkcUXo"
+    },
+    {
+      "name": "[2] Miller (Shavit of Cie)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3</p>\n<p><strong>Acres:</strong> 15 free</p>\n<p>The village miller, Shavit, is a native of Gardiren. In 706 TR, the previous miller was killed during a Kath raid, afterwards, most families had to do their milling by hand until the present miller arrived early in 707 TR. Shavit has two apprentices and supports his wife and young daughter in some comfort. Until the construction of the tower, the mill was the only stone building in the village.</p>",
+        "format": 1
+      },
+      "_id": "lfupgLoVGVe1rFE6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.lfupgLoVGVe1rFE6"
+    },
+    {
+      "name": "[3] Villein (Lautt of Larrea)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 7</p>\n<p><strong>Acres:</strong> 24 serf</p>\n<p>Lautt is the cousin of Mihil (@Compendium[hm-loc-chewintin.journals.xgMLqcgd5oW0Ettz]{Half-Villein (Mihil of Larrea)}) and also a member of Clan Larrea. His two younger sons spend most of their time fishing while their two elder brothers work for Clan Hestin. Lautt is a unpleasant man, given to fits of anger and fighting. He desperately wanted to be made clan head, but was passed over in favor of his cousin. His wife and daughter specialize in smoking fish and ham.</p>",
+        "format": 1
+      },
+      "_id": "i8WskaRtv9zTMMbF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.i8WskaRtv9zTMMbF"
+    },
+    {
+      "name": "[4] Villein (Pena of Larrea)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 9</p>\n<p><strong>Acres:</strong> 25 Serf</p>\n<p>With the second largest family on the manor, Pena has great difficulty feeding his family. His twin boys are 14 now and work for Clan Broatch. Unfortunately, he still has to feed his five younger children (9, 8, 6, 3 and 1) who cannot contribute much in the way of productive work.</p>",
+        "format": 1
+      },
+      "_id": "y97WGiFOy1OmLz5g",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.y97WGiFOy1OmLz5g"
+    },
+    {
+      "name": "[5] Woodward (Couran of Broatch)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 5</p>\n<p><strong>Acres:</strong> 38 Serf</p>\n<p>An energetic and ambitious man, Couran is the younger brother of Sachar (@Compendium[hm-loc-chewintin.journals.jJx3mLJdZZqpMIJv]{Villein (Sachar of Broatch)}) the Clan chief. His wife is a tall, slight, compassionate woman who prepares herbal remedies and cares for the sick members of the manor without regard for clan or ability to pay. Together, they have three girls.</p>",
+        "format": 1
+      },
+      "_id": "4BtsOUNqgiT1iGpg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.4BtsOUNqgiT1iGpg"
+    },
+    {
+      "name": "[6] Woodcrafter (Tenue of Pembina)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 2</p>\n<p><strong>Acres:</strong> 30 free</p>\n<p>The village woodcrafter is a fourth generation inhabitant of the village, though some still view his family as outsiders. He spent his apprenticeship with a master in Qualdris, but moved home as soon as he became a journeyman. He has never talked about his time away and is often moody, especially if someone brings up the topic. He has refused to send his son to the same master and has instead sent him to Jedes for his apprenticeship. He supports one apprentice in addition to his wife and two daughters.</p>",
+        "format": 1
+      },
+      "_id": "ILdUnxiG4icwktsc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.ILdUnxiG4icwktsc"
+    },
+    {
+      "name": "[7] Cottar (Enfil of Larrea)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 1</p>\n<p><strong>Acres:</strong> 4 serf</p>\n<p>Enfil is from a distant branch of Clan Larrea. He arrived in 706 TR shortly after the Bailiff died. He built a small cottage and the Reeve assigned him a few acres. No one knows why he moved to Chewintin, but he is a talented fisherman, works hard and keeps to himself. Unknown to all, Enfil was caught in bed with another man and fled for his life. He lives in constant fear that someone will discover his secret.</p>",
+        "format": 1
+      },
+      "_id": "CK0nIcgSemmzPy3L",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.CK0nIcgSemmzPy3L"
+    },
+    {
+      "name": "[8] Herder (Guille of Broatch)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 6</p>\n<p><strong>Acres:</strong> 38 serf</p>\n<p>Guille is a tall, powerfully built man and first cousin of Sachar (@Compendium[hm-loc-chewintin.journals.jJx3mLJdZZqpMIJv]{Villein (Sachar of Broatch)}). He likes the power of his position, but despises the work. Most of the actual herding is done by his two oldest boys. The two younger boys help their father work their land. Guille often hires members of Clan Ayton to work for him and grudgingly pays them a fair wage.</p>",
+        "format": 1
+      },
+      "_id": "JvqzuF9t8X9l703E",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.JvqzuF9t8X9l703E"
+    },
+    {
+      "name": "[9] Reeve (Odins of Mahon)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3</p>\n<p><strong>Acres:</strong> 40 serf, 25 free</p>\n<p>Nearly fifty, Odins is a widower with white hair and beard. He lives with his son Maruk and foster daughter Bronwyn. Bronwyn is from Jedes and her and his son have been betrothed since childhood. They plan to marry in the summer of 720 TR. Besides being head of Clan Mahon, Odins is also the Village Elder (Reeve), titles which has been synonymous for six generations. An extremely clever man, he has used his position to cement his clan’s dominance in the community by obtaining grants of free and serf land. The last three Bailiffs allowed him to run the manor as he saw fit and he sees Sir Krisagon as a threat to his power.</p>",
+        "format": 1
+      },
+      "_id": "YUiTlItd3NaOylcu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.YUiTlItd3NaOylcu"
+    },
+    {
+      "name": "[10] Villein (Tress of Larrea)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 6</p>\n<p><strong>Acres:</strong> 22 serf</p>\n<p>A beautiful young orphan, Tress though herself lucky when she married the head of Clan Larrea in 698 TR. Then, four years later, her husband died of a wasting disease, leaving her with two small babies to raise. The Clan chose Mihil (@Compendium[hm-loc-chewintin.journals.xgMLqcgd5oW0Ettz]{Half-Villein (Mihil of Larrea)}), her husband’s arch-rival, to succeed him. Mihil turned the Clan against her, making her a pariah, so in desperation, she began to sell her favors to men of the village in return for labor on her land and food. This allowed her and her children to survive at the cost of her dignity. In addition to her two boys by her husband (20 and 19) she has three illegitimate children, two girls (12 and 9) and a boy (5). Her eldest, Kukec, has been fined repeatedly for attacking those who make rude comments about his mother.</p>",
+        "format": 1
+      },
+      "_id": "c7gZDOedaSxG0tJF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.c7gZDOedaSxG0tJF"
+    },
+    {
+      "name": "[11] Farmer (Isla of Hestin)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 5</p>\n<p><strong>Acres:</strong> 45 free</p>\n<p>A slight, gangly man, Isla has never married. When he was young, he moved away for several years. In 705 TR, on the death of his father he returned to live with his elderly mother, bringing with him four orphans. None of them knew anything about farming, but over the years, they have adapted. Isla has been in mourning since the death of his beloved mother two months ago. The Reeve and village priest know that Isla was a Peonian acolyte and rescued his “children” from an early death on the streets of Tashal. He helps out with Peonian services.</p>",
+        "format": 1
+      },
+      "_id": "tdS9MryiHi9fNvuu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.tdS9MryiHi9fNvuu"
+    },
+    {
+      "name": "[12] Villein (Sachar of Broatch)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 4</p>\n<p><strong>Acres:</strong> 37 serf, 5 free</p>\n<p>The head of Clan Broatch, he is a close ally of the Reeve. He inherited the title of chief upon his father’s death three years ago. Under his leadership the Clan has prospered and he greatly desires more land and will do whatever is necessary to get it. During the last raid, he killed a Kath, stealing his broadsword and dagger (which, ironically, the Kath had taken from a Kaldorian men-atarms on a previous raid). He has hidden them in the thatch of his hut.</p>",
+        "format": 1
+      },
+      "_id": "CoKZsbHrVtHsUFsg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.CoKZsbHrVtHsUFsg"
+    },
+    {
+      "name": "[13] Villein (Giese of Broatch)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3</p>\n<p><strong>Acres:</strong> 36 serf</p>\n<p>Giese and his two younger brothers are in mourning after their mother and father were killed and their hut burned to the ground in the latest Kath raid. He blames Sir Krisagon for not arriving earlier. Odins has chastised him twice for talking too openly about rebellion, despite this, Giese is anxious to take action.</p>",
+        "format": 1
+      },
+      "_id": "0gXmHRNTAJTZwTf1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.0gXmHRNTAJTZwTf1"
+    },
+    {
+      "name": "[14] Beadle (Arden of Hestin)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 2</p>\n<p><strong>Acres:</strong> 30 free</p>\n<p>A medium foot yeoman, Arden is extremely fit and strong for a middle age man and regularly drills the members of his Clan. A former man-at-arms for the Constable of Jedes Keep, he makes sure that the able-bodied clan members take care of their weapons and are ready to defend the village. To protect his Clan’s position of power he opposes serfs belonging to the militia. He and his wife have tried to have children, but an old war wound has made this impossible.</p>",
+        "format": 1
+      },
+      "_id": "g1ckDT4KhFdIfuLL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.g1ckDT4KhFdIfuLL"
+    },
+    {
+      "name": "[15] Farmer (Forst of Hestin)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3</p>\n<p><strong>Acres:</strong> 80</p>\n<p>Forst has more land than anyone else in the village. A descendent of the first soldiers sent to guard this remote outpost, his family has been here since 354 TR. He has a large timber-frame house on a stone foundation across from the mill and a medium size herd of cattle. The Lord stables his palfreys and packhorses in Forst’s barn since he does not have a barn of his own. Forst is the head of Clan Hestin and lives here with his wife and youngest daughter.</p>",
+        "format": 1
+      },
+      "_id": "CfXkY9SHauLBCvZ4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.CfXkY9SHauLBCvZ4"
+    },
+    {
+      "name": "[16] Teamster (Nys of Wardle)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 7</p>\n<p><strong>Acres:</strong> 30 serf</p>\n<p>Clan Wardle is a large clan spread across most of the Hundred. Nys is the only member of the clan in Chewintin, and so (with the lord’s permission) he travels regularly to visit his family in neighboring villages. Since he is travelling anyway, he has recently taken up the role of village teamster, transporting village produce to the Jedes Fair and purchasing goods for other families. He treads a fine line and the Mercantylers and Chandlers are watching to make sure he doesn’t violate guild privilege. Nys’ wife and sons run the farm.</p>",
+        "format": 1
+      },
+      "_id": "fgEsPA4Fj1WfNw4c",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.fgEsPA4Fj1WfNw4c"
+    },
+    {
+      "name": "[17] Villein (Holota of Mahon)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 5</p>\n<p><strong>Acres:</strong> 34 serf, 20 free</p>\n<p>Holota is the finest farmer in the village. Everyone seeks his advise before planting or harvesting and Odins relies on his assistance to run the manor. He has a large cottage and several cows and pigs. His wife looks after their two small girls and an adopted son.</p>",
+        "format": 1
+      },
+      "_id": "l8XrWaQhKiu8MVIn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.l8XrWaQhKiu8MVIn"
+    },
+    {
+      "name": "[18] Villein (Rhys of Mahon)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 6</p>\n<p><strong>Acres:</strong> 36 serf, 10 free</p>\n<p>Rhys is very wary of strangers and dislikes change. He supports his frail spinster aunt and two nieces in addition to his wife and four-year-old son. He has never left the village and rarely ventures even as far as Keldkith. He does not believe in Peoni, but keeps this to himself.</p>",
+        "format": 1
+      },
+      "_id": "vjrOscRRXwYcJMls",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.vjrOscRRXwYcJMls"
+    },
+    {
+      "name": "[19] Villein (Bendigeid of Mahon)",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 6</p>\n<p><strong>Acres:</strong> 36 serf, 25 free</p>\n<p>Bendigeid is a quiet, almost mousy man, but his wife is bright, bubbly and full of gossip. She longs for a more exciting life finds her life as a wife and mother dull. As a result, she has been carrying on a secret affair with Rainault, one of the men of the garrison.</p>\n<p>Keldkith</p>",
+        "format": 1
+      },
+      "_id": "RhHZdKn6wUw7d9HV",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!75z4Ori9CGtqYXjT.RhHZdKn6wUw7d9HV"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201696218,
+    "modifiedTime": 1659201696218,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "75z4Ori9CGtqYXjT",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!75z4Ori9CGtqYXjT"
+}

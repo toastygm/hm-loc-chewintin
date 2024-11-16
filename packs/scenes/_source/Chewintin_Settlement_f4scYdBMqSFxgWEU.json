@@ -1,0 +1,1067 @@
+{
+  "_id": "f4scYdBMqSFxgWEU",
+  "name": "Chewintin Settlement",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/f4scYdBMqSFxgWEU-thumb.webp",
+  "width": 3906,
+  "height": 5628,
+  "padding": 0.05,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 58,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 25,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1658088801304,
+  "globalLight": true,
+  "globalLightThreshold": 0.7,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "v4rvpR2kci6XyXQb",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 1901,
+      "y": 2436,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "A",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/29bf5f81_A.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ZRMRNwM8F0T4lFNy",
+      "text": "[A] Watchtower",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.v4rvpR2kci6XyXQb"
+    },
+    {
+      "_id": "m15c7mCW4HNIqQ98",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 1179,
+      "y": 2230,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "E",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/796593d_E.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "gPvowjU1nay9BUk8",
+      "text": "[E] Site of the Kath Raid",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.m15c7mCW4HNIqQ98"
+    },
+    {
+      "_id": "JLZdh8v5iLp4vFa3",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 512,
+      "y": 2056,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "C",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/afe34607_C.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "whOj03F9lWi6Xpua",
+      "text": "[C] Mill",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.JLZdh8v5iLp4vFa3"
+    },
+    {
+      "_id": "mQIKSorPN298dxF3",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 3931,
+      "y": 4839,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "D",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/f2077640_D.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "zCc9saIZlzfETKaK",
+      "text": "[D] Grove",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.mQIKSorPN298dxF3"
+    },
+    {
+      "_id": "94lN6T2Hu2jV3hhm",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 1308,
+      "y": 5545,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "F",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/207d3476_F.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "FkVygwvOH4NeFlVk",
+      "text": "[F] Quarry",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.94lN6T2Hu2jV3hhm"
+    },
+    {
+      "_id": "VqLUogWwGNA5soHX",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 3806,
+      "y": 1862,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "G",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/1d9a7533_G.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Wshuu4JGeWnRSvUr",
+      "text": "[G] Cabin",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.VqLUogWwGNA5soHX"
+    },
+    {
+      "_id": "v5x3yGxSr68jUPry",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 2022,
+      "y": 4042,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "B",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/add9baaa_B.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ptOrg2sOfpzHqPpq",
+      "text": "[B] Laranian Marker",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.v5x3yGxSr68jUPry"
+    },
+    {
+      "_id": "9SKyryh2dgy0jrxF",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 3206,
+      "y": 2003,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/91f7bef1_1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "kppoqOLQXUNkcUXo",
+      "text": "[1] Half-Villein (Mihil of Larrea)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.9SKyryh2dgy0jrxF"
+    },
+    {
+      "_id": "TSapMgSPYafJaXx8",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 3440,
+      "y": 1929,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/b9a898f7_3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "i8WskaRtv9zTMMbF",
+      "text": "[3] Villein (Lautt of Larrea)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.TSapMgSPYafJaXx8"
+    },
+    {
+      "_id": "SVzhRZ08vSDJS5I3",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2001,
+      "y": 3203,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "12",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/902f0409_12.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "CoKZsbHrVtHsUFsg",
+      "text": "[12] Villein (Sachar of Broatch)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.SVzhRZ08vSDJS5I3"
+    },
+    {
+      "_id": "yvwhB6lPV4r8vVYH",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 1714,
+      "y": 3220,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/85388270_4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "y97WGiFOy1OmLz5g",
+      "text": "[4] Villein (Pena of Larrea)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.yvwhB6lPV4r8vVYH"
+    },
+    {
+      "_id": "FgaTgD1R8pVcgEQu",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 1118,
+      "y": 2870,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "11",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/6d608a3c_11.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "tdS9MryiHi9fNvuu",
+      "text": "[11] Farmer (Isla of Hestin)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.FgaTgD1R8pVcgEQu"
+    },
+    {
+      "_id": "yrojHGLvTVmiAAoU",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 816,
+      "y": 2783,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "13",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/a4c0cd76_13.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "0gXmHRNTAJTZwTf1",
+      "text": "[13] Villein (Giese of Broatch)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.yrojHGLvTVmiAAoU"
+    },
+    {
+      "_id": "s1tOknosGRXtQSHA",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 524,
+      "y": 2611,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "15",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/f7a89e40_15.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "CfXkY9SHauLBCvZ4",
+      "text": "[15] Farmer (Forst of Hestin)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.s1tOknosGRXtQSHA"
+    },
+    {
+      "_id": "l9tq4FeDlJA0733Z",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 760,
+      "y": 2217,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/7aef8d5a_2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "lfupgLoVGVe1rFE6",
+      "text": "[2] Miller (Shavit of Cie)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.l9tq4FeDlJA0733Z"
+    },
+    {
+      "_id": "GOsP330SWMUwWkUW",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 1671,
+      "y": 3461,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "8",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/d1741b8c_8.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "JvqzuF9t8X9l703E",
+      "text": "[8] Herder (Guille of Broatch)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.GOsP330SWMUwWkUW"
+    },
+    {
+      "_id": "sZQjdkinfsYCnFwn",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2026,
+      "y": 3481,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "9",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/60cd6d9_9.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "YUiTlItd3NaOylcu",
+      "text": "[9] Reeve (Odins of Mahon)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.sZQjdkinfsYCnFwn"
+    },
+    {
+      "_id": "VaZM0yJFbIVXYJax",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 1645,
+      "y": 3748,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "7",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/b30edda3_7.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "CK0nIcgSemmzPy3L",
+      "text": "[7] Cottar (Enfil of Larrea)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.VaZM0yJFbIVXYJax"
+    },
+    {
+      "_id": "8YUY8PAmGrIW6LQg",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 1908,
+      "y": 3809,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "6",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/fc9e30e6_6.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ILdUnxiG4icwktsc",
+      "text": "[6] Woodcrafter (Tenue of Pembina)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.8YUY8PAmGrIW6LQg"
+    },
+    {
+      "_id": "E6nXLmMZfAN6DsxQ",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 1587,
+      "y": 4090,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "10",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/62e5ec17_10.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "c7gZDOedaSxG0tJF",
+      "text": "[10] Villein (Tress of Larrea)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.E6nXLmMZfAN6DsxQ"
+    },
+    {
+      "_id": "TGKYw8KR5TqhuL91",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2161,
+      "y": 4543,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "18",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/a26a4aaf_18.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "vjrOscRRXwYcJMls",
+      "text": "[18] Villein (Rhys of Mahon)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.TGKYw8KR5TqhuL91"
+    },
+    {
+      "_id": "q3KgbRtgNTCHUJSU",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2239,
+      "y": 4343,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "16",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/cc88b9bd_16.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "fgEsPA4Fj1WfNw4c",
+      "text": "[16] Teamster (Nys of Wardle)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.q3KgbRtgNTCHUJSU"
+    },
+    {
+      "_id": "UBsDZs2V1l6GvF31",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2420,
+      "y": 4708,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "17",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/a05d517a_17.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "l8XrWaQhKiu8MVIn",
+      "text": "[17] Villein (Holota of Mahon)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.UBsDZs2V1l6GvF31"
+    },
+    {
+      "_id": "dU0BjvQyNZHIIEjM",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2574,
+      "y": 4547,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "14",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/a29abe1b_14.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "g1ckDT4KhFdIfuLL",
+      "text": "[14] Beadle (Arden of Hestin)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.dU0BjvQyNZHIIEjM"
+    },
+    {
+      "_id": "YXJWSQDRnbTjunKt",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2713,
+      "y": 4878,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "19",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/f6b10974_19.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "RhHZdKn6wUw7d9HV",
+      "text": "[19] Villein (Bendigeid of Mahon)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.YXJWSQDRnbTjunKt"
+    },
+    {
+      "_id": "e6wXrQTJFmGnQN2Z",
+      "entryId": "75z4Ori9CGtqYXjT",
+      "x": 2874,
+      "y": 4752,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "5",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-chewintin/assets/journal-icon-numbers/f17e18ad_5.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "4BtsOUNqgiT1iGpg",
+      "text": "[5] Woodward (Couran of Broatch)",
+      "global": false,
+      "_key": "!scenes.notes!f4scYdBMqSFxgWEU.e6wXrQTJFmGnQN2Z"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "_id": "LyLwA0vhp4lD4PRe",
+      "c": [
+        362,
+        627,
+        377,
+        5625
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!f4scYdBMqSFxgWEU.LyLwA0vhp4lD4PRe"
+    },
+    {
+      "_id": "heVeRjwUCy4yygmT",
+      "c": [
+        377,
+        5625,
+        4089,
+        5625
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!f4scYdBMqSFxgWEU.heVeRjwUCy4yygmT"
+    },
+    {
+      "_id": "KKqRJFxQrv0Z3Nst",
+      "c": [
+        4089,
+        5625,
+        4103,
+        627
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!f4scYdBMqSFxgWEU.KKqRJFxQrv0Z3Nst"
+    },
+    {
+      "_id": "6fqX8pJobwWvbTy0",
+      "c": [
+        4103,
+        627,
+        362,
+        627
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!f4scYdBMqSFxgWEU.6fqX8pJobwWvbTy0"
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "hm-loc-chewintin": {
+      "imported": "1.1.0"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-chewintin",
+      "packed-with-version": "2.3.17",
+      "sourceId": "Scene.pAXaBBgzSoJq06Hz",
+      "hash": "c1f3103960321f4b1d9485dd97daa3a61139004a"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-loc-chewintin.scenes.f4scYdBMqSFxgWEU"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-chewintin/assets/scenes/playermap.jpg",
+    "offsetX": -45,
+    "offsetY": 31,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201708026,
+    "modifiedTime": 1659201708026,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!f4scYdBMqSFxgWEU"
+}

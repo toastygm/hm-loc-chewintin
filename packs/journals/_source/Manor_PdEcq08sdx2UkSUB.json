@@ -1,0 +1,157 @@
+{
+  "name": "Manor",
+  "pages": [
+    {
+      "name": "[M0] Cellar",
+      "type": "text",
+      "text": {
+        "content": "<p>The cellar has a well and sally port. It can be reached by the spiral staircase or a large trapdoor. The trapdoor allows large barrels or boxes to be lowered into the cellar using a block and tackle from the kitchen above. Only a foot above the normal water level, the cellar floods whenever the river rises above normal. A small, three foot by four foot, iron bound oak door protects the small sally port. This door provides access to the river to allow messengers and supplies to be delivered in secret. The cellar is not well stocked, with only a few barrels of cheap wine, sacks of grain (on shelves to protect them from the damp) and smoked meat hanging from the rafters.</p>",
+        "format": 1
+      },
+      "_id": "0j2OtbddSJkD0jer",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!PdEcq08sdx2UkSUB.0j2OtbddSJkD0jer"
+    },
+    {
+      "name": "[M1] Ground Floor",
+      "type": "text",
+      "text": {
+        "content": "<p>This floor houses the kitchen. A large iron bound oak door guards the main entrance. It has two heavy bars, which slide, in place to lock it securely. The door is flanked by two arrow slits, which allow archers to fire on the causeway. Since the tower lacks a proper stables, Sir Krisagon and Sir Draco’s warhorses are stabled in the corner of the kitchen. For obvious reasons, the area is cleaned daily and fresh straw and herbs laid down. A preparation area, with tables, is located in front of a large fireplace used for cooking the food. The servants sleep here at night.</p>\n<p>The door’s only protection is an eight-foot long drawbridge operated by a winch in the corner of the kitchen. The drawbridge lowers onto a causeway leading down to the village. When Sir Krisagon arrived one of the winch chains was broken. That has been repaired, but the winch is damaged and the drawbridge can still only be raised halfway. The causeway is overgrown and the villagers are clearing it under the supervision of several of the men-at-arms. Sir Krisagon wants to build a wall with a gate to protect the causeway as soon as money allows.</p>",
+        "format": 1
+      },
+      "_id": "Q4etFZExl7qUxc4K",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!PdEcq08sdx2UkSUB.Q4etFZExl7qUxc4K"
+    },
+    {
+      "name": "[M2] Second Floor",
+      "type": "text",
+      "text": {
+        "content": "<p>The second floor is all one room, the great hall. Reached by the spiral staircase from the main floor, this room is the heart of the manor. Everyone takes their meals here on long trestle tables. The bailiff has a small head table with a rather ragged tapestry behind. There is a large fireplace for heat and six arrow slits for defense. In good weather, the shutters on either side of the hall can be opened to reveal a pair of large windows. Most of Sir Krisagon’s warband sleeps on the floor or the tables of the great hall at night.</p>",
+        "format": 1
+      },
+      "_id": "eXZ3guWXv9ePk1Ko",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!PdEcq08sdx2UkSUB.eXZ3guWXv9ePk1Ko"
+    },
+    {
+      "name": "[M3] Third Floor",
+      "type": "text",
+      "text": {
+        "content": "<p>The third floor houses the Lord’s private solar. Almost as large as the hall, the room has its own fireplace, a rare luxury. A fine four poster bed is set against the far wall. In addition to Sir Krisagon, his most trusted men (Bors, Rainault and Tibald) sleep here as well.</p>\n<p>The small room off the hall was intended as the Lord’s private chapel. Instead, a stone statue of Larani was placed in the window niche opposite the stair in the main hall. The chapel now acts as Sir Draco’s private apartment. It is quite cold and a brazier is needed in the evenings.</p>",
+        "format": 1
+      },
+      "_id": "hjyicP8ysbQwJNKi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!PdEcq08sdx2UkSUB.hjyicP8ysbQwJNKi"
+    },
+    {
+      "name": "[M4] Roof",
+      "type": "text",
+      "text": {
+        "content": "<p>The top of the tower is a flat fighting platform with a small lookout on top of the spiral staircase. The top of the tower has an unrestricted view of the river for several leagues and a large brazier for a signal fire. On a good night, the beacon can be seen in Meminas (2½ leagues away) and be relayed to Jedes Keep. The tower also overlooks the entire village of Chewintin.</p>",
+        "format": 1
+      },
+      "_id": "9s2oExe6vJ2svTx3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!PdEcq08sdx2UkSUB.9s2oExe6vJ2svTx3"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201696245,
+    "modifiedTime": 1659201696245,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "PdEcq08sdx2UkSUB",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!PdEcq08sdx2UkSUB"
+}
